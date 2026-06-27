@@ -1,2 +1,3 @@
 # leetcode-dsa
-Daily Leetcode dsa problems in Java
+Daily Leetcode dsa problems in python
+
